@@ -1,6 +1,6 @@
 import './App.css'
 
-//Para rodar: 
+//Para rodar: pnpm run dev
 function App() {
 
   return (
